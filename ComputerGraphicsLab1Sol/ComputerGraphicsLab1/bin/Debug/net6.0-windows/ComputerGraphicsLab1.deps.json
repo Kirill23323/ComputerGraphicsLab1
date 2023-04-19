@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ComputerGraphicsLab1/1.0.0": {
+        "runtime": {
+          "ComputerGraphicsLab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComputerGraphicsLab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
